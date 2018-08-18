@@ -7,7 +7,7 @@ if l1==l2:
        elif p1>p2:
        	print p1
        else:
-       	print s2
+       	print p2
 elif l1>l2:
        print p1
 else:
