@@ -4,7 +4,7 @@ l2=len(p2)
 if l1==l2:
        if p1==p2:
        	print p1
-       elif s1>s2:
+       elif p1>p2:
        	print p1
        else:
        	print s2
